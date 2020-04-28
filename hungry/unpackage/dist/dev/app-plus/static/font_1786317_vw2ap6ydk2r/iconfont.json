@@ -1,0 +1,23 @@
+{
+  "id": "1786317",
+  "name": "kudou",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "图标",
+  "glyphs": [
+    {
+      "icon_id": "8448540",
+      "name": "搜索",
+      "font_class": "ziyuan",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "6682541",
+      "name": "地址",
+      "font_class": "dizhi1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}
